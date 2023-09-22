@@ -1,16 +1,12 @@
 # learni_fy
 
-A new Flutter project.
+A Test Flutter Ui.
 
-## Getting Started
+Code out put
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![l](https://github.com/rakibsojib1/learnify_Task/assets/118044314/a1d2a84a-cf8a-448d-abfb-84305506344a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![l2](https://github.com/rakibsojib1/learnify_Task/assets/118044314/ba1f4205-f65c-4702-bd97-a0338c7248ea)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2023-09-22_21-22-38](https://github.com/rakibsojib1/learnify_Task/assets/118044314/5dae5255-b86d-48fc-9a33-d92c28822b22)
